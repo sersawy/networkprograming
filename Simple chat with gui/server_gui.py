@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  7 11:43:41 2019
 
-@author: CSE
-"""
 from tkinter import *
 from tkinter import messagebox
 from socket import *
